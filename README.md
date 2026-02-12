@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1f1f1f&height=220&section=header&text=Ylgner%20Witoszynski&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20•%20Front-End%20Developer&descAlignY=58&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1f1f1f&height=220&section=header&text=Ylgner%20Witoszynski&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Graduate%20•%20Front-End%20Developer&descAlignY=58&descAlign=50" />
 </p>
 
 <p align="center">
@@ -10,10 +10,10 @@
 
 ## About Me
 
-Computer Science at UNINOVE, currently transitioning into the technology field.  
-Focused on Front-End Development and committed to building structured, maintainable and user-centered applications.
+Computer Science graduate with a strong focus on Front-End Development.  
+Committed to building scalable, maintainable and user-centered applications using modern web technologies.
 
-I value discipline, continuous learning and long-term growth.
+I value discipline, continuous learning and long-term growth in software development.
 
 ---
 
@@ -33,10 +33,10 @@ I value discipline, continuous learning and long-term growth.
 
 ## Current Focus
 
-- Advanced JavaScript fundamentals  
-- Modern React patterns  
+- Advanced JavaScript concepts  
+- Modern React architecture  
 - API integration and asynchronous data handling  
-- Clean code and scalable project structure  
+- Performance optimization and clean code practices  
 
 ---
 
