@@ -1,41 +1,70 @@
-<h1 align="center">Hi👋! My name is Ylgner, and I'm an aspiring developer.</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1f1f1f&height=220&section=header&text=Ylgner%20Witoszynski&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20•%20Front-End%20Developer&descAlignY=58&descAlign=50" />
+</p>
 
-###
+<p align="center">
+  Building modern web applications focused on performance, scalability and clean architecture.
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-</div>
+---
 
-###
+## About Me
 
-<div align="center">
+Computer Science at UNINOVE, currently transitioning into the technology field.  
+Focused on Front-End Development and committed to building structured, maintainable and user-centered applications.
+
+I value discipline, continuous learning and long-term growth.
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" />
+</p>
+
+---
+
+## Current Focus
+
+- Advanced JavaScript fundamentals  
+- Modern React patterns  
+- API integration and asynchronous data handling  
+- Clean code and scalable project structure  
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Ylgner-Witoszynski&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Ylgner-Witoszynski&layout=compact&theme=tokyonight&hide_border=true" 
+    height="160"
+  />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ylgner-witoszynski-santana-613a631a1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/witoszynski__/?next=%2F" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ylgner-Witoszynski&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ylgner-Witoszynski.Ylgner-Witoszynski&left_color=red"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ylgner-Witoszynski.Ylgner-Witoszynski&left_color=0A66C2&right_color=1f1f1f" />
+</p>
