@@ -26,20 +26,14 @@ I treat development as a craft — precision, structure and evolution.
 
 <br/>
 
-<h2 align="center">📊 Performance Metrics</h2>
+<h2 align="center">📊 Activity</h2>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Ylgner-Witoszynski&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Ylgner-Witoszynski&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF&text_color=ffffff" 
-    height="170"
-  />
+  <img src="https://streak-stats.demolab.com?user=Ylgner-Witoszynski&theme=tokyonight&hide_border=true" />
 </p>
 
 <br/>
+
 
 <h2 align="center">🌐 Connect</h2>
 
